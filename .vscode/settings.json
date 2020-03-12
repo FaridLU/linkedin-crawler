@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "venv/bin/python3",
+    "cSpell.ignoreWords": [
+        "details",
+        "linkedin",
+        "requied",
+        "username"
+    ]
+}
